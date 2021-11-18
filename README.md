@@ -3,7 +3,7 @@ Name: Dmitrii Badretdinov
 
 Occupation: Research Assistant at DFKI, Master of Computer Science in UdS.  
 
-Interest: Looking to collaborate on a Data Science project. 
+Interest: If you have anything in mind, feel free to contact me. 
 
 Contact: dmitrii.badretdinov@gmail.com
 ```
