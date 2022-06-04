@@ -1,7 +1,7 @@
 ```
 Name: Dmitrii Badretdinov
 
-Interest: If you have anything in mind, feel free to contact me. 
+Interests: If you need help with an exciting project, feel free to reach out. 
 
 Contact: dmitrii.badretdinov@gmail.com
 ```
